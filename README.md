@@ -16,7 +16,7 @@
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python)
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=israrakhan&show_icons=true&theme=radical)
 
 ## 🎯 Featured Projects
 - [AWS Automation](https://github.com/YOUR-USERNAME/project1) - Terraform infrastructure
