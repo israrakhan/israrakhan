@@ -5,7 +5,7 @@
 - 🔭 Working on AWS automation & Kubernetes orchestration
 - 🌱 Learning GitOps and advanced Terraform patterns
 - 💬 Ask me: AWS, Docker, Kubernetes, Terraform, Jenkins, Python, Linux
-- 📫 Email: ik427094@gmail.com | LinkedIn: linkedin.com/in/israr-ahemad-khan-68b2b0167
+- 📫 Email: er.israrkhan@gmail.com | LinkedIn: linkedin.com/in/israr-ahemad-khan-68b2b0167
 
 ## 🛠️ Tech Stack & Tools
 
@@ -49,4 +49,4 @@
 
 ## 🌐 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/israr-ahemad-khan-68b2b0167)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:ik427094@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:er.israrkhan@gmail.com)
