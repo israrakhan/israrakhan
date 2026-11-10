@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Israr Ahemad Khan</h1>
-<h3 align="center">AWS DevOps Engineer | Cloud Automation | DevSecOps</h3>
+<h3 align="center">Cloud and DevOps Engineer | AWS | Microsoft Azure | Azure DevOps | DevSecOps</h3>
 
 <p align="center">
   <a href="mailto:er.israrkhan@gmail.com">Email</a> ·
@@ -9,14 +9,14 @@
 
 ## About Me
 
-I'm a DevOps Engineer focused on AWS infrastructure, Kubernetes, CI/CD automation, Infrastructure as Code, and secure cloud delivery. I work with Terraform, GitHub Actions, Jenkins, Docker, and Amazon EKS to automate infrastructure and application deployments.
+I'm a Cloud and DevOps Engineer focused on AWS and Microsoft Azure, Kubernetes, CI/CD automation, Infrastructure as Code, and secure cloud delivery. I work with Terraform, GitHub Actions, Jenkins, Docker, Amazon EKS, and Azure DevOps to automate infrastructure and application deployments.
 
-- Working with AWS infrastructure, Linux systems, and Kubernetes workloads
+- Working with AWS and Azure infrastructure, Linux systems, and Kubernetes workloads
 - Building CI/CD workflows and adding security checks to delivery pipelines
 - Recently learned Helm for Kubernetes package management
 - Interested in GitOps, AI-assisted DevOps, and MLOps
 - Based in Nagpur, Maharashtra, India
-- Ask me about AWS, Docker, Kubernetes, Terraform, Ansible, Jenkins, GitHub Actions, Linux, Bash, and Python
+- Ask me about AWS, Azure, Azure DevOps, Docker, Kubernetes, Terraform, Ansible, Jenkins, GitHub Actions, Linux, Bash, and Python
 
 ## Tech Stack
 
@@ -26,8 +26,39 @@ I'm a DevOps Engineer focused on AWS infrastructure, Kubernetes, CI/CD automatio
 ![Terraform](https://img.shields.io/badge/Terraform-5835CC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Amazon EC2](https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Amazon EKS](https://img.shields.io/badge/Amazon_EKS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Amazon ECS](https://img.shields.io/badge/Amazon_ECS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/Amazon_S3-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Amazon RDS](https://img.shields.io/badge/Amazon_RDS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS IAM](https://img.shields.io/badge/AWS_IAM-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Amazon VPC](https://img.shields.io/badge/Amazon_VPC-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Application Load Balancer](https://img.shields.io/badge/Application_Load_Balancer-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Route 53](https://img.shields.io/badge/Route_53-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Auto Scaling](https://img.shields.io/badge/Auto_Scaling-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Amazon CloudWatch](https://img.shields.io/badge/Amazon_CloudWatch-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-AWS services: EC2, EKS, ECS, S3, RDS, IAM, VPC, Application Load Balancer, Route 53, Auto Scaling, and CloudWatch
+AWS services: EC2, EKS, ECS, S3, RDS, IAM, VPC, Application Load Balancer, Route 53, Auto Scaling, and CloudWatch  
+AWS DevOps workflow: Terraform and Ansible automation, CI/CD with Jenkins and GitHub Actions, and container deployments on EKS
+
+### Microsoft Azure and Azure DevOps
+
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure Pipelines](https://img.shields.io/badge/Azure_Pipelines-2560E0?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure Repos](https://img.shields.io/badge/Azure_Repos-0078D7?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure Boards](https://img.shields.io/badge/Azure_Boards-0078D7?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure Artifacts](https://img.shields.io/badge/Azure_Artifacts-0078D7?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure Virtual Machines](https://img.shields.io/badge/Azure_Virtual_Machines-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure Virtual Network](https://img.shields.io/badge/Azure_Virtual_Network-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure Storage](https://img.shields.io/badge/Azure_Storage-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AKS](https://img.shields.io/badge/AKS-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![ACR](https://img.shields.io/badge/ACR-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure Key Vault](https://img.shields.io/badge/Azure_Key_Vault-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure Monitor](https://img.shields.io/badge/Azure_Monitor-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+Azure DevOps: Pipelines, Repos, Boards, and Artifacts  
+Azure services: Virtual Machines, Virtual Network (VNet), Storage, Azure Kubernetes Service (AKS), Azure Container Registry (ACR), Key Vault, and Azure Monitor
 
 ### Containers and CI/CD
 
@@ -91,6 +122,11 @@ Designed a highly available AWS architecture with network isolation and database
 Automated application build, testing, Docker image creation, and AWS deployment.
 
 **Tools:** Jenkins, SonarQube, Docker, Nginx, and AWS
+
+## Certifications
+
+![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS_Certified_Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Microsoft Azure Fundamentals](https://img.shields.io/badge/Microsoft_Azure_Fundamentals-AZ--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ## Areas I'm Exploring
 
