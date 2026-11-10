@@ -11,7 +11,7 @@
 
 I'm a Cloud and DevOps Engineer focused on AWS and Microsoft Azure, Kubernetes, CI/CD automation, Infrastructure as Code, and secure cloud delivery. I work with Terraform, GitHub Actions, Jenkins, Docker, Amazon EKS, and Azure DevOps to automate infrastructure and application deployments.
 
-- Working with AWS infrastructure, Linux systems, and Kubernetes workloads
+- Working with AWS and Azure infrastructure, Linux systems, and Kubernetes workloads
 - Building CI/CD workflows and adding security checks to delivery pipelines
 - Recently learned Helm for Kubernetes package management
 - Interested in GitOps, AI-assisted DevOps, and MLOps
@@ -26,8 +26,20 @@ I'm a Cloud and DevOps Engineer focused on AWS and Microsoft Azure, Kubernetes, 
 ![Terraform](https://img.shields.io/badge/Terraform-5835CC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Amazon EC2](https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Amazon EKS](https://img.shields.io/badge/Amazon_EKS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Amazon ECS](https://img.shields.io/badge/Amazon_ECS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/Amazon_S3-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Amazon RDS](https://img.shields.io/badge/Amazon_RDS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS IAM](https://img.shields.io/badge/AWS_IAM-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Amazon VPC](https://img.shields.io/badge/Amazon_VPC-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Application Load Balancer](https://img.shields.io/badge/Application_Load_Balancer-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Route 53](https://img.shields.io/badge/Route_53-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Auto Scaling](https://img.shields.io/badge/Auto_Scaling-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Amazon CloudWatch](https://img.shields.io/badge/Amazon_CloudWatch-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-AWS services: EC2, EKS, ECS, S3, RDS, IAM, VPC, Application Load Balancer, Route 53, Auto Scaling, and CloudWatch
+AWS services: EC2, EKS, ECS, S3, RDS, IAM, VPC, Application Load Balancer, Route 53, Auto Scaling, and CloudWatch  
+AWS DevOps workflow: Terraform and Ansible automation, CI/CD with Jenkins and GitHub Actions, and container deployments on EKS
 
 ### Microsoft Azure and Azure DevOps
 
@@ -113,6 +125,7 @@ Automated application build, testing, Docker image creation, and AWS deployment.
 
 ## Certifications
 
+![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS_Certified_Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Microsoft Azure Fundamentals](https://img.shields.io/badge/Microsoft_Azure_Fundamentals-AZ--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ## Areas I'm Exploring
