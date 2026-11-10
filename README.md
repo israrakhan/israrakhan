@@ -13,6 +13,7 @@ I'm a DevOps Engineer focused on AWS infrastructure, Kubernetes, CI/CD automatio
 
 - Working with AWS infrastructure, Linux systems, and Kubernetes workloads
 - Building CI/CD workflows and adding security checks to delivery pipelines
+- Recently learned Helm for Kubernetes package management
 - Interested in GitOps, AI-assisted DevOps, and MLOps
 - Based in Nagpur, Maharashtra, India
 - Ask me about AWS, Docker, Kubernetes, Terraform, Ansible, Jenkins, GitHub Actions, Linux, Bash, and Python
@@ -21,36 +22,55 @@ I'm a DevOps Engineer focused on AWS infrastructure, Kubernetes, CI/CD automatio
 
 ### Cloud and Infrastructure
 
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-5835CC?style=flat-square&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-5835CC?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 AWS services: EC2, EKS, ECS, S3, RDS, IAM, VPC, Application Load Balancer, Route 53, Auto Scaling, and CloudWatch
 
 ### Containers and CI/CD
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+![Nexus Repository](https://img.shields.io/badge/Nexus_Repository-004B87?style=for-the-badge&logo=sonatype&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
-Docker Compose, Helm, Git, GitHub, GitOps, Maven, Gradle, and Nexus
+Docker Compose and GitOps
 
-### DevSecOps and Observability
+### DevSecOps and Security
 
-![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
+![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=trivy&logoColor=white)
+![Gitleaks](https://img.shields.io/badge/Gitleaks-5A5A5A?style=for-the-badge)
+![SAST](https://img.shields.io/badge/SAST-Security_Scanning-8B0000?style=for-the-badge)
 
-Trivy, Gitleaks, SAST, vulnerability scanning, secret detection, Linux administration, Ubuntu, and Amazon Linux
+Vulnerability scanning, secret detection, secure CI/CD, and Linux security basics
+
+### Monitoring and Observability
+
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Amazon CloudWatch](https://img.shields.io/badge/Amazon_CloudWatch-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ### Programming and Web
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnubash&logoColor=white)
-
-JavaScript, HTML5, CSS3, React, Tailwind CSS, and Bootstrap
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ## Featured Projects
 
@@ -73,6 +93,10 @@ Automated application build, testing, Docker image creation, and AWS deployment.
 **Tools:** Jenkins, SonarQube, Docker, Nginx, and AWS
 
 ## Areas I'm Exploring
+
+![AI Integration](https://img.shields.io/badge/AI_Integration-Exploring-6A5ACD?style=for-the-badge&logo=openai&logoColor=white)
+![MLOps](https://img.shields.io/badge/MLOps-Learning-3C5280?style=for-the-badge)
+![GitOps](https://img.shields.io/badge/GitOps-Exploring-326CE5?style=for-the-badge&logo=git&logoColor=white)
 
 - **AI integration for DevOps:** API-based workflow assistance, log and incident summarization, and runbook support
 - **MLOps:** model packaging, versioning, deployment pipelines, and monitoring; exploring tools such as MLflow, Kubeflow, and Amazon SageMaker
