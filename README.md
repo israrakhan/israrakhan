@@ -25,37 +25,39 @@ I’m a Cloud and DevOps Engineer focused on AWS and Microsoft Azure. I work acr
 
 A selection of cloud, CI/CD, and containerization projects I’ve built:
 
-### Git-to-EKS — Secure CI/CD for a Java application
+![Animated project showcase cycling through six cloud and DevOps projects](./assets/project-showcase.gif)
+
+### 🚀 01 · Git-to-EKS — Secure CI/CD for a Java application
 
 Automated the delivery of a Java application to Amazon EKS using GitHub Actions and self-hosted runners. The pipeline builds and tests with Maven, checks code quality with SonarQube, scans for vulnerabilities with Trivy and exposed secrets with Gitleaks, then builds and publishes a Docker image to Docker Hub before deployment.
 
 **Pipeline:** GitHub Actions · Self-hosted runners · Maven · SonarQube · Trivy · Gitleaks · Docker Hub · Amazon EKS
 
-### Full-stack blogging app — Jenkins pipeline to EKS
+### ☸️ 02 · Full-stack blogging app — Jenkins pipeline to EKS
 
 Built an end-to-end deployment pipeline for a blogging application running on Amazon EKS. Jenkins orchestrates the Maven build, SonarQube quality analysis, Trivy filesystem and image scans, Nexus artifact publishing, Docker image publishing to Docker Hub, and Kubernetes deployment. Terraform is used for infrastructure as code.
 
 **Stack:** Jenkins · Maven · SonarQube · Trivy · Nexus · Terraform · Docker · Docker Hub · Amazon EKS
 
-### AWS three-tier web application
+### 🏗️ 03 · AWS three-tier web application
 
 Designed a highly available, segmented AWS architecture across six subnets in multiple Availability Zones. The application tier uses EC2 behind an Application Load Balancer, with Auto Scaling; the data tier uses Multi-AZ MySQL on Amazon RDS. The project also covers VPC networking, NAT, bastion access, security groups, CloudFormation provisioning, IAM, S3 backup and lifecycle policies, and CloudWatch monitoring. The web stack includes Apache, PHP 8.2, and phpMyAdmin.
 
 **Services & tools:** VPC · EC2 · Application Load Balancer · Auto Scaling · RDS · S3 · IAM · CloudFormation · AWS CLI · CloudWatch · Ansible
 
-### React application — CI/CD deployment to AWS EC2
+### ⚡ 04 · React application — CI/CD deployment to AWS EC2
 
 Created an end-to-end delivery pipeline for a React application, using Jenkins for CI/CD and Docker for containerization. The deployment runs on AWS EC2 behind an Nginx reverse proxy, with PM2 process management and security hardening.
 
 **Stack:** React · Jenkins · Docker · AWS EC2 · Nginx · PM2
 
-### Smart car parking system — Cloud app with CI/CD
+### 🚗 05 · Smart car parking system — Cloud app with CI/CD
 
 Worked on a cloud-enabled parking application designed to show parking availability, let drivers reserve spaces, and guide them to a selected spot. The CI/CD workflow automates build, test, and deployment steps when application code changes.
 
 **Focus:** Cloud deployment · Web application · CI/CD automation
 
-### Full-stack Node.js and MongoDB — Docker Compose
+### 🐳 06 · Full-stack Node.js and MongoDB — Docker Compose
 
 Containerized a Node.js application with MongoDB and Mongo Express. Built a custom application image, connected the services over a Docker network, configured persistent database storage with volumes, and used Docker Compose to start the complete stack together.
 
@@ -114,5 +116,6 @@ I’m always happy to talk about cloud infrastructure, DevOps automation, Kubern
 - **Email:** [er.israrkhan@gmail.com](mailto:er.israrkhan@gmail.com)
 - **LinkedIn:** [Israr Ahemad Khan](https://linkedin.com/in/israr-ahemad-khan-68b2b0167)
 - **GitHub:** [@israrakhan](https://github.com/israrakhan)
+
 
 
