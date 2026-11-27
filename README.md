@@ -9,8 +9,7 @@
  <a href="https://israr-devops-portfolio.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-Visit-FF5722?style=flat&logo=vercel&logoColor=white" alt="Portfolio Website" />
 </a>
-
-  <a href="https://github.com/israrakhan"><img src="https://img.shields.io/badge/GitHub-israrakhan-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
+ <a href="https://github.com/israrakhan"><img src="https://img.shields.io/badge/GitHub-israrakhan-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
 ---
