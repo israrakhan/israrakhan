@@ -6,7 +6,10 @@
 <p align="center">
   <a href="mailto:er.israrkhan@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-0A66C2?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://linkedin.com/in/israr-ahemad-khan-68b2b0167"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  [![Portfolio](https://img.shields.io/badge/DevOps_Portfolio-Live-success?style=for-the-badge&logo=vercel&logoColor=white)](https://israr-devops-portfolio.vercel.app/)
+ <a href="https://israr-devops-portfolio.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-FF5722?style=flat&logo=vercel&logoColor=white" alt="Portfolio Website" />
+</a>
+
   <a href="https://github.com/israrakhan"><img src="https://img.shields.io/badge/GitHub-israrakhan-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
